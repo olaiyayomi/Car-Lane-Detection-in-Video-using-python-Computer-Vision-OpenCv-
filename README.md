@@ -1,0 +1,2 @@
+# Car-Lane-Detection-in-Video-using-python-Computer-Vision-OpenCv-
+This Python script uses OpenCV to detect and highlight lanes in a video stream. It reads a video file, applies edge detection, and employs the Hough Line Transform to detect line segments representing lanes. Detected lanes are drawn on the original frame in green, providing visual feedback to the driver. Pressing 'q' exits the program
